@@ -1,0 +1,24 @@
+{
+    "MSFT_SMA_profit": -46.30620000000023,
+    "MSFT_SMA_returns_%": -51.560182607727675,
+    "MSFT_SMA_today": "Do Nothing",
+    "MSFT_MR_profit": -162.16399999999996,
+    "MSFT_MR_returns_%": -175.5591642308108,
+    "MSFT_MR_today": "Do Nothing",
+    "MSFT_BB_profit": 156.72699999999998,
+    "MSFT_BB_returns_%": 170.9313992801832,
+    "MSFT_BB_today": "Do nothing",
+    "AAPL_SMA_profit": 207.24139999999994,
+    "AAPL_SMA_returns_%": 215.0476289301649,
+    "AAPL_SMA_today": "Do Nothing",
+    "AAPL_MR_profit": 984.5327999999998,
+    "AAPL_MR_returns_%": 1268.4009275959802,
+    "AAPL_MR_today": "Do Nothing",
+    "AAPL_BB_profit": -467.0163999999999,
+    "AAPL_BB_returns_%": -484.60765798485,
+    "AAPL_BB_today": "Do nothing",
+    "Highest Returning Strategy": [
+        "AAPL_MR_returns_%",
+        1268.4009275959802
+    ]
+}
